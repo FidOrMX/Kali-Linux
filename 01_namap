@@ -1,0 +1,4 @@
+nmap 192.168.0.114 -sV -O
+--Allows me to scan a specific device in relation to the IP adress "192.168.0.114".
+--"-sV" denotes de specific version.
+--"-O" for the operating system version. (It can be Linux or something else.)
