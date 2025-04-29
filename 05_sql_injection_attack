@@ -1,0 +1,7 @@
+sudo sql map
+
+
+sudo apt install sqlmap
+
+
+sudo sqlmap -u http://test.com
