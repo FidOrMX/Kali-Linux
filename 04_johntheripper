@@ -1,0 +1,7 @@
+sudo apt install john
+
+john -- help
+
+zip2john
+
+john --help
